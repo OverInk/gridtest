@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'S760-Script';
-    src: url('S760Script.woff2') format('woff2'),
-        url('S760Script.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
